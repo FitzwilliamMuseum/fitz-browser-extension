@@ -1,0 +1,24 @@
+{
+  "manifest_version": 1.0.0,
+  "name": "The Fitz ExploredSpelunker",
+  "version": "1.0.0",
+
+  "description": "Discover random objects from the University of Cambridge's Fitzwilliam Museum Collection of Paintings.",
+
+"icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+
+"browser_action": {
+ "default_icon": "android-icon-192x192.png"
+ },
+
+"permissions": ["activeTab"],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+
+  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+  "content_security_policy": "script-src 'self' https://cdn.jsdelivr.net; object-src 'self'"
+
+}

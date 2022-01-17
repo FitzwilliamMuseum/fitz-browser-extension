@@ -1,0 +1,17 @@
+body {
+  background: url('https://fitz-cms-images.s3.eu-west-2.amazonaws.com/25th_november_131_2000x1000-1.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+i {
+  font-size: 2rem;
+}
