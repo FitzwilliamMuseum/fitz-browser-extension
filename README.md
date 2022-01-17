@@ -1,10 +1,12 @@
-# Fitz Spelunker
+# Fitz Randomised
+
+A browser extension's code for randomised works of art from the department of prints and drawings.
 
 
 ## Installing in Chrome
 
 Instructions for testing on the Chrome browser:
-1. Using the Chrome Browser, [visit the extension's Chrome Web Store page](https://chrome.google.com/webstore/detail/museum-in-a-tab/cimeodcpfcofmebahghcaiiidbaijnkl)
+1. Using the Chrome Browser install via....
 2. Click on the "Add to Chrome" button
 
 ## Installing in Safari
