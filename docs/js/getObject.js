@@ -12,6 +12,7 @@ request.addEventListener('load', function (e) {
     } else {
       title = response.summary_title;
     }
+    document.title = title + ' The Fitz at Random';
     const image = store + response.multimedia[0].processed.large.location;
     const url = response.admin.uri;
     const maker = response.lifecycle.creation;
@@ -35,5 +36,5 @@ request.addEventListener('load', function (e) {
     discover.href = url;
     imageElement.src = image;
     imageElement.class = "";
-    
+
 });
