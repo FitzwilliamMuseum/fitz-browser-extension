@@ -1,5 +1,7 @@
 # Fitz Randomised
 
+[![DOI](https://zenodo.org/badge/448975237.svg)](https://zenodo.org/badge/latestdoi/448975237)
+
 A browser extension's code for randomised works of art from the department of prints and drawings.
 
 ![browserExtension](https://user-images.githubusercontent.com/286552/164112185-eef515ce-bfe4-433f-9d61-861bba1f5db0.jpg)
