@@ -2,6 +2,8 @@
 
 A browser extension's code for randomised works of art from the department of prints and drawings.
 
+![browserExtension](https://user-images.githubusercontent.com/286552/164112185-eef515ce-bfe4-433f-9d61-861bba1f5db0.jpg)
+
 
 ## Installing in Chrome
 
